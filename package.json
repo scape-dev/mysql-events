@@ -27,7 +27,7 @@
     "coverage": "nyc --reporter=lcov npm test"
   },
   "dependencies": {
-    "@vlasky/zongji": "https://github.com/vlasky/zongji.git",
+    "@anteqkois/zongji": "https://github.com/anteqkois/zongji.git",
     "debug": "^4.1.1",
     "debuggler": "^1.0.0",
     "mysql": "^2.17.1"
